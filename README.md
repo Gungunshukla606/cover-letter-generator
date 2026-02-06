@@ -1,4 +1,3 @@
-Cover Letter Generator 
 This project is a simple web application built using HTML, CSS, and JavaScript that generates a basic cover letter from user input.
 It demonstrates form handling, DOM manipulation, and template-based text generation without using real AI integration.
 Users can enter their details and instantly receive a formatted cover letter. 
